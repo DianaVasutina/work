@@ -1,0 +1,62 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: rgb(143, 142, 142);
+    margin: 0 auto;
+}
+.header{
+    width: 100%;
+    height: 100px;
+    text-align: center;
+}
+.text1{
+    font-size: 30px;
+}
+.text2{
+    font-size: 20px;
+}
+.sprint-1{
+    margin: 0 auto;
+    width: 70%;
+    height: 400px;
+    border-radius: 20px;
+    background-color: rgb(0, 0, 0);
+    background: linear-gradient(  rgb(0, 0, 0), rgb(124, 216, 178));
+    
+}
+.sprint-2{
+    
+    margin: 0 auto;
+    margin-top: 20px;
+    width: 70%;
+    height: 500px;
+    border-radius: 20px;
+    
+    background: linear-gradient( rgb(124, 216, 178),  rgb(0, 0, 0));
+    
+}
+.text-3{
+    
+    margin-left: 20px;
+    font-size: 25px;
+    color: rgb(255, 255, 255);
+}
+.lesson{
+    margin-left: 50px;
+    width: 250px;
+    height: 125px;
+    background-color: rgb(0, 0, 0);
+    border-radius: 20px;
+}
+.sbor-lesson-stroka1{
+    display: flex;
+    margin-right: 50px;
+    margin-top: 25px;
+}
+.sbor-lesson-stroka2{
+    display: flex;
+    margin-right: 50px;
+    margin-top: 20px;
+}
